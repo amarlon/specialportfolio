@@ -1,0 +1,144 @@
+{
+    "leftMenu":{
+        "home":"HOME",
+        "about":"ABOUT ME",
+        "resume":"RESUME",
+        "portfolio":"PORTFOLIO",
+        "contact":"CONTACT",
+        "myproject":"MY PROJECTS"
+    },
+    "home":{
+        "greetingName": "Hi, I am",
+        "description":"I am a software developer and Electrician"
+    },
+    "aboutme":{
+        "title":"About me",
+        "description": "Anaelmarlon is versatile, motivated and determined in his projects, leader, curious, and passionate about new technologies. Software development is for him a lifestyle that he love with all my heart, prior to starting his freelancing and consulting career at 2014. One of best thing that Anaelmarlon have, it is a passion and motivation to develop his coding skills, Besides his pure software development side, Anaelmarlon also has a huge passion for start-up, entrepreneurship and any business developments related to tech and an invetion. Anaelmarlon also worked for 3 years as Electrician of boat.",
+        "title1": "WHAT I DO",
+        "section1" : {
+            "div1":{
+                "title":"FULL STACK WEB DEVELOPMENT",
+                "description":"I design and develop data driven application that can run on any browser from mobile supported to desktop browser."
+            },
+            "div2":{
+                "title":"MOBILE DEVELOPMENT",
+                "description":"I develop bespoke mobile (iOS & Android) app with xamarin framework C#."
+            },
+            "div3":{
+                "title":"DESKTOP DEVELOPMENT",
+                "description":"I design and develop ( applications for inventory, sales and personnel management ) the App for desktop with embarcadero studio and delphi in pascal language."
+            },
+            "div4":{
+                "title":"SOLUTION DEVELOPER",
+                "description": "I have an excellent problem solver and solid understanding of Object Oriented Programming."
+            }
+        },
+        "title2":"HOW I DO IT",  
+        "section2" :{
+            "div1": "DISCOVER",
+            "div2": "RESEARCH",
+            "div3": "DESIGN",
+            "div4": "DEVELOP",
+            "div5": "TEST",
+            "div6": "SUPPORT"
+        },
+        "title3": "FAN FUCT",
+        "section3" :{
+            "div1":"±  3.600 Hours of spent coding in each Year",
+            "div2": "± 1.440 Hours spent studying new technologies each Year",
+            "div3": "Anaelmarlon luzayamo Ngweni !!! How my God, it's too long, can you just call me Marlon",
+            "div4": "± 20.000 Cups Of Coffee Consumed in the past 5 Years"
+        }
+    },
+    "resume":{
+        "title": "Resume",
+        "title2": "WORK HISTORY",
+        "firstTitle":{
+            "date":"MARCH 2018 - CURRENT",
+            "title": "MANAGER OF DEVELOPERS WEB",
+            "miniTitle": "HOTSHI",
+            "miniSection": "Development of Web Applications,  and Problem documentation & solution shaping. Tech Stack: MVC,PHP, MYSQL, Web API (REST),JSON, JQuery, AJAX, HTML5 , JavaScript, CSS (SASS),Bootstrap , CodeIgniter Framework ,  GIT, Ubuntu server, Design, Test and AWS2 -Amazon"
+        },
+        "secondTitle":{
+            "date": "MARCH 2014 - 2018",
+            "title": "FREELANCE SOFTWARE DEVELOPER",
+            "miniTitle": "HOMEWORKER",
+            "miniSection": "Development of Web Applications (forum ,Chat, NGO ...) and Development App windows desktop (personnel management system and sales management). Tech Stack:  PHP, MVC,  JQuery, AJAX, HTML , JavaScript, CSS , Semantic UI , Bootstrap , CodeIgniter Framework , PASCAL (delphi and Embarcadero) and Wordpress."
+        },
+        "thirdTitle":{
+            "date": "JUNE 2016 - SEPT 2016",
+            "title": "CASHIER AND COOKER",
+            "miniTitle": "MACS-RESTAURANT/WISCONSIN DELLS",
+            "miniSection": "Cooker and Cashier"
+        },
+        "fourthTitle":{
+            "date": "JUNE 2016 - SEPT 2016",
+            "title": "ARCADE ATTENDATE",
+            "miniTitle": "FAMILLY ENTERTAINMENT/WISCONSIN DELLS",
+            "miniSection": "Assists patrons of amusement facility, and plays minor repairs on game machines.  Places out-of-order signs on defective machines and returns money lost in defective machines to patrons."
+        },
+        "fifthTitle":{
+            "date": "MARCH 2010 - SEPT 2012",
+            "title": "ELECTRICIAN OF BOAT",
+            "miniTitle": "CHANIMETAL/SOGEFMO",
+            "miniSection": "Like a marine electrician , my  responsibility for the installation, repairing and maintenance of the electrical wiring systems on all kinds of marine vehicles like boats, yachts, and ships."
+        },
+        "resumeEducation":{
+            "title": "EDUCATION",
+            "section1":{
+                "date": "2017 -  2018",
+                "title": " MS DEGREE APPLY COMPUTER SCIENCE",
+                "miniTitle": "BELGOROD STATE AGRICULTURAL UNIVERSITY - RUSSIA",
+                "miniSection": "I started my computer science  degree at University of Belgorod State agricultural university in Belgorod - Russia before moving to United State of America. "
+            },
+            "section2":{
+                "date": "2013 -  2017",
+                "title": " BS DEGREE APPLY COMPUTER SCIENCE ",
+                "miniTitle": "BELGOROD STATE AGRICULTURAL UNIVERSITY - RUSSIA",
+                "miniSection": "BASC in Economy focuses on the concepts and techniques used in the design and development of advanced software systems. I explored the conceptual underpinnings of Computer Science <br> <i>Majors: algorithms, programming languages, operating systems, and software engineering techniques. In addition, students choose from a rich set of electives that includes » data science, computer graphics, artificial intelligence, database systems, computer architecture, computer networks, Economics, Management among other topics</i>"
+            },
+            "section3":{
+                "date": "2004 -  2009",
+                "title": " MATRICS (HIGH SCHOOL) in INDUSTRIAL ELECTRICAL ",
+                "miniTitle": "INSTITUT TECHNIQUE ET INDUSTRIEL DE LA GOMBE - DRCONGO",
+                "miniSection": "High School matric (Grade12) : Industrial Electricity. Major included but no limited: Electrical Engineering, Electronics, Mathematics, French, Hyper-frequency, Industrial mechanics, English and  Programation.>"
+            }
+        },
+        "resumeCertificate":{
+            "title": "CERTIFICATES AND AWARDS",
+            "section1":{
+                "date": "2013 - 2017",
+                "title": " HONORS & AWARDS ",
+                "miniTitle": "RUSSIA",
+                "miniSection": " <i>Leadership training,  Best Leader of Student self-government 2017, Best leader 2015,  Student of the year 2015, Certificate of Computer drawing compass 3d </i>"
+            },
+            "section2":{
+                "date": "11.5 H",
+                "title": " XAMARIN C# / OIS AND ANDROID  ",
+                "miniTitle": "Udemy",
+                "miniSection": " I learned the C# language from scratch in order to create iOS and Android apps from the very beginning, until the publication in the store. <br><i> I got the  master of techniques 's code sharing between  platforms with Xamarin.Forms  and be autonomous enough to integrate by yourself the features specific to your project.</i>"
+            },
+            "section3":{
+                "date": "37.5 H",
+                "title": "COMPLETE TRAINING WEB DEVELOPER",
+                "miniTitle": "Udemy",
+                "miniSection": " I have been studying Web Development from A to Z. Learn HTML, CSS, Javascript, jQuery, Bootstrap, PHP, MySQL, Wordpress. <br><i>We developed Website for Travel Agency, Snake Game, Online CV (Personal Website), Contact Form, Blog and E-commerce Website</i>"
+            },
+            "section4":{
+                "date": "6 H",
+                "title": "DEVELOPER WORDPRESS ",
+                "miniTitle": "Udemy",
+                "miniSection": "Learn the WordPress from beginner to professional.<br><i>I developed a Blog, Vtrine Site, E-Commerce Website, etc ... Installed, configured, customized a WordPress site, Mastered the features of WordPress: Pages, Posts, Widgets, etc ... Optimized the referencing of a WordPress site thanks to the Yoast SEO pluginSell products with the Woocommerce plugin</i>"
+            },
+            "section5":{
+                "date": "1.5 H",
+                "title": "DEVELOPER CODEIGNITER ",
+                "miniTitle": "Udemy",
+                "miniSection": "<i>I learned how to use CodeIgniter framework,  get good Knowledge of MVC concept, Making use to MVC under CodeIgniter. Integrate Bootstrap template into CodeIgniter How to easily create website using CodeIgniter.</i>>"
+            }
+
+        }
+
+
+    }
+}

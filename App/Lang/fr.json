@@ -1,0 +1,142 @@
+{
+    "leftMenu":{
+        "home":"ACCEUIL",
+        "about":"À-PROPOS",
+        "resume":"RESUME",
+        "portfolio":"PORTFOLIO",
+        "contact":"CONTACT",
+        "myproject":"MES PROJECTS"
+    },
+    "home":{
+        "greetingName": "Salut, Je suis ",
+        "description":"un Développeur de Logiciels et Electricien"
+    },
+    "aboutme":{
+        "title":"À-propos de moi",
+        "description": "Anaelmarlon est polyvalent, motivé, déterminé dans ses projets, dirigeant, curieux et passionné des nouvelles technologies. Le développement des logiciels est pour lui un style de vie qu'il aime de tout son cœur, avant de commencer sa carrière de consultant et de freelance à 2014. L'une des meilleures choses qu'Anaelmarlon possède, c'est une passion et une motivation pour développer ses compétences de codeur côté développement, Anaelmarlon est également passionnée par les nouvelles entreprises, l’entrepreneuriat et tout développement commercial lié à la technologie et à l’innovation. Anaelmarlon a également travaillé pendant 3 ans comme électricien de bateau.",
+        "title1": "CE QUE JE FAIS",
+        "section1" : {
+            "div1":{
+                "title":"DÉVELOPPEMENT FULL STACK WEB",
+                "description":"Je conçois et développe des applications basées sur les données pouvant fonctionner sur tous les navigateurs, du support pris en charge au navigateur de bureau."
+            },
+            "div2":{
+                "title":"DÉVELOPPEMENT MOBILE",
+                "description":"Je développe une application mobile sur mesure (iOS & Android) avec le framework xamarin C#."
+            },
+            "div3":{
+                "title":"DÉVELOPPEMENT DES APPLICATIONS DE BUREAU",
+                "description":"Je conçois et développe (applications pour l'inventaire, les ventes et la gestion du personnel) l'application pour ordinateur de bureau avec embarcadero studio et delphi en langage pascal."
+            },
+            "div4":{
+                "title":"DÉVELOPPEUR DE SOLUTION",
+                "description": "J'ai une excellente résolution de problèmes et une solide compréhension de la programmation orientée objet."
+            }
+        },
+        "title2":"COMMENT JE LE FAIS",  
+        "section2" :{
+            "div1": "DÉCOUVRIR",
+            "div2": "RECHERCHE",
+            "div3": "CONCEPTION",
+            "div4": "DÉVELOPPER",
+            "div5": "TESTER",
+            "div6": "SOUTIEN"
+        },
+        "title3": "FAN FUCT",
+        "section3" :{
+            "div1":"± 3 600 Heures de codage utilisées chaque année",
+            "div2": "± 1,440 heures consacrées à l'étude des nouvelles technologies chaque année",
+            "div3": "Anaelmarlon luzayamo Ngweni !!! Mon Dieu, c'est trop long, pouvez-vous juste m'appeler Marlon...",
+            "div4": "± 20.000 tasses de café consommées au cours des 5 dernières années"
+        }
+    },
+    "resume":{
+        "title": "Résumé",
+        "title2": "HISTORIQUE DU TRAVAIL",
+        "firstTitle":{
+            "date":"MARS 2018 - ACTUEL",
+            "title": "GESTIONNAIRE DE DÉVELOPPEURS WEB",
+            "miniTitle": "HOTSHI",
+            "miniSection": "Développement d'applications Web, documentation de problèmes et mise en forme de solutions. Tech Stack:  MVC,PHP, MYSQL, Web API (REST),JSON, JQuery, AJAX, HTML5 , JavaScript, CSS (SASS),Bootstrap , CodeIgniter Framework ,  GIT, Ubuntu server, Design, Test and AWS2 -Amazon"
+        },
+        "secondTitle":{
+            "date": "MARS 2014 - 2018",
+            "title": "DÉVELOPPEUR DE LOGICIEL FREELANCE",
+            "miniTitle": "TRAVAILLEUR À DOMICILE",
+            "miniSection": "Développement d'applications Web (forum, chat, ONG ...) et d'applications de développement (bureau) (système de gestion du personnel et gestion des ventes). Tech Stack: PHP, MVC, JQuery, AJAX, HTML, JavaScript, CSS, UI sémantique, Bootstrap, Framework CodeIgniter, PASCAL (Delphi et Embarcadero) et Wordpress"
+        },
+        "thirdTitle":{
+            "date": "JUIN 2016 - SEPT 2016",
+            "title": "CAISSIER ET CUISINIER ",
+            "miniTitle": "MACS-RESTAURANT/WISCONSIN DELLS",
+            "miniSection": "Caissier et Cuissinier"
+        },
+        "fourthTitle":{
+            "date": "JUIN 2016 - SEPT 2016",
+            "title": "ARCADE ATTENDATE",
+            "miniTitle": "FAMILLY ENTERTAINMENT/WISCONSIN DELLS",
+            "miniSection": "Assiste les clients du centre d'amusement et  des réparations mineures sur les machines de jeux. Met hors service les affiches sur les machines défectueuses et renvoie aux clients les sommes perdues dans les machines défectueuses."
+        },
+        "fifthTitle":{
+            "date": "MARS 2010 - SEPT 2012",
+            "title": "ELECTRICIEN DE BATEAU",
+            "miniTitle": "CHANIMETAL/SOGEFMO",
+            "miniSection": "Tout comme un électricien de marine, je fus responsable de l’installation, de la réparation et de la maintenance des systèmes de câblage électrique de tous types de véhicules marins tels que bateaux, yachts et navires."
+        },
+        "resumeEducation":{
+            "title": "EDUCATION",
+            "section1":{
+                "date": "2017 -  2018",
+                "title": "MS DEGREE APPLIQUER SCIENCE INFORMATIQUE",
+                "miniTitle": "BELGOROD STATE AGRICULTURAL UNIVERSITY - RUSSIA",
+                "miniSection": "J'ai commencé mon diplôme en informatique à l'Université de Belgorod, Université agricole de Belgorod en Russie, avant de déménager aux États-Unis. "
+            },
+            "section2":{
+                "date": "2013 -  2017",
+                "title": "BS DEGREE APPLIQUER SCIENCE INFORMATIQUE ",
+                "miniTitle": "BELGOROD STATE AGRICULTURAL UNIVERSITY - RUSSIA",
+                "miniSection": "BASC en économie se concentre sur les concepts et techniques utilisés dans la conception et le développement de systèmes logiciels avancés. J'ai exploré les fondements conceptuels de l'informatique <br> <i> Majors: algorithmes, langages de programmation, systèmes d'exploitation et techniques de génie logiciel. En outre, les étudiants choisissent parmi un large éventail de cours au choix, qui comprend »la science des données, l'infographie, l'intelligence artificielle, les systèmes de base de données, l'architecture informatique, les réseaux informatiques, l'économie, la gestion, entre autres sujets.</i>"
+            },
+            "section3":{
+                "date": "2004 -  2009",
+                "title": " HUMANITE en ELECTRICITE INDUSTRIELLE ",
+                "miniTitle": "INSTITUT TECHNIQUE ET INDUSTRIEL DE LA GOMBE - DRCONGO",
+                "miniSection": "Diplôme d'études secondaires (12e année): Électricité industrielle. Cours: génie électrique, électronique, mathématiques, français, hyperfréquence, mécanique industrielle, anglais et programmation."
+            }
+        },
+        "resumeCertificate":{
+            "title": "CERTIFICATS ET RECOMPENSES",
+            "section1":{
+                "date": "2013 - 2017",
+                "title": " HONEURS ET PRIX",
+                "miniTitle": "RUSSIE",
+                "miniSection": " <i> Formation au leadership, Meilleur dirigeant de gouvernement d' étudiante 2017, Meilleur dirigeant 2015, Étudiant de l'année 2015, Certificat de boussole de dessin par ordinateur 3D </i>"
+            },
+            "section2":{
+                "date": "11.5 H",
+                "title": " XAMARIN C# / OIS AND ANDROID  ",
+                "miniTitle": "Udemy",
+                "miniSection": " I learned the C# language from scratch in order to create iOS and Android apps from the very beginning, until the publication in the store. <br><i> I got the  master of techniques 's code sharing between  platforms with Xamarin.Forms  and be autonomous enough to integrate by yourself the features specific to your project.</i>"
+            },
+            "section3":{
+                "date": "37.5 H",
+                "title": "COMPLETE TRAINING WEB DEVELOPER",
+                "miniTitle": "Udemy",
+                "miniSection": " I have been studying Web Development from A to Z. Learn HTML, CSS, Javascript, jQuery, Bootstrap, PHP, MySQL, Wordpress. <br><i>We developed Website for Travel Agency, Snake Game, Online CV (Personal Website), Contact Form, Blog and E-commerce Website</i>"
+            },
+            "section4":{
+                "date": "6 H",
+                "title": "DEVELOPER WORDPRESS ",
+                "miniTitle": "Udemy",
+                "miniSection": "Learn the WordPress from beginner to professional.<br><i>I developed a Blog, Vtrine Site, E-Commerce Website, etc ... Installed, configured, customized a WordPress site, Mastered the features of WordPress: Pages, Posts, Widgets, etc ... Optimized the referencing of a WordPress site thanks to the Yoast SEO pluginSell products with the Woocommerce plugin</i>"
+            },
+            "section5":{
+                "date": "1.5 H",
+                "title": "DEVELOPER CODEIGNITER ",
+                "miniTitle": "Udemy",
+                "miniSection": "<i>I learned how to use CodeIgniter framework,  get good Knowledge of MVC concept, Making use to MVC under CodeIgniter. Integrate Bootstrap template into CodeIgniter How to easily create website using CodeIgniter.</i>>"
+            }
+
+        }
+    }
+}
