@@ -5,10 +5,10 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta property='og:title' content='Anaelmarlon Luzayamo 's Portfolio"/>
-        <meta property='og:image' content='http://www.marlonluzayamo.com/App/Assets/img/src/marlon2.jpg"/>
-        <meta property='og:description' content='You can know more about me , you can text me"/>
-        <meta property='og:url' content='http://marlonluzayamo.com/#resume" />
+        <meta property='og:title' content="Anaelmarlon Luzayamo 's Portfolio"/>
+        <meta property='og:image' content="http://www.marlonluzayamo.com/App/Assets/img/src/marlon2.jpg"/>
+        <meta property='og:description' content="You can know more about me , you can text me"/>
+        <meta property='og:url' content="http://marlonluzayamo.com/#resume" />
         <title></title>
         <link rel="icon" href="App/Assets/img/src/marlon.ico" type="image/ico" sizes="20x20">
         <link href="https://fonts.googleapis.com/css?family=Lora|Montserrat" rel="stylesheet">
